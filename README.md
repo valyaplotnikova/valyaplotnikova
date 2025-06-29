@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Привет, я Валентина Плотникова 
+**Python Backend Developer** с опытом разработки высоконагруженных API и парсеров данных
 
-<!--
-**valyaplotnikova/valyaplotnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy&logoColor=white)](https://sqlalchemy.org)
+[![GitHub](https://img.shields.io/github/followers/valyaplotnikova?label=Follow&style=social)](https://github.com/valyaplotnikova)
 
-Here are some ideas to get you started:
+## 🛠 Технологический стек
+- **Backend**: Python 3.10+, FastAPI, Django, aiohttp
+- **Базы данных**: PostgreSQL, SQLite, Redis
+- **Инструменты**: Docker, Git, CI/CD, Pytest
+- **Парсинг**: BeautifulSoup, Scrapy, Selenium
+- **Другое**: REST API, GraphQL, WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
