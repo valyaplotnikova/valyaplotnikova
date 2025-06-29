@@ -13,3 +13,7 @@
 - **Парсинг**: BeautifulSoup, Scrapy, Selenium
 - **Другое**: REST API, GraphQL, WebSockets
 
+📬 Связаться со мной:
+
+Телеграм: @valya_plotnikova
+Почта: valya_ezhova@mail.ru
