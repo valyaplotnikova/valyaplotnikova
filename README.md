@@ -10,8 +10,8 @@
 - **Backend**: Python 3.10+, FastAPI, Django, aiohttp
 - **Базы данных**: PostgreSQL, SQLite, Redis
 - **Инструменты**: Docker, Git, CI/CD, Pytest
-- **Парсинг**: BeautifulSoup, Scrapy, Selenium
-- **Другое**: REST API, GraphQL, WebSockets
+- **Парсинг**: BeautifulSoup, Requests, Selenium
+- **Другое**: REST API
 
 📬 Связаться со мной:
 
